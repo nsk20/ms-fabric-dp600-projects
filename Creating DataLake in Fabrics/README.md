@@ -48,6 +48,3 @@ GROUP BY
     Item 
 ORDER BY 
     Revenue DESC;
-
-
-Purpose: This query calculates the total revenue generated for each distinct product item, showcasing the ability to perform complex aggregate functions directly on the structured Lakehouse tables.
